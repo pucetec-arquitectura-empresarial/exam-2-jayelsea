@@ -1,0 +1,3 @@
+package com.pucetec.exam2.controllertest
+
+import org.springframework.boot.BootstrapRegistryInitializer

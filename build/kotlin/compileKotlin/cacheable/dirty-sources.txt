@@ -1,0 +1,4 @@
+/home/jose/Escritorio/exam-2-jayelsea/src/main/kotlin/com/pucetec/exam2/repository/ParkingRepository.kt
+/home/jose/Escritorio/exam-2-jayelsea/src/main/kotlin/com/pucetec/exam2/service/ParkingService.kt
+/home/jose/Escritorio/exam-2-jayelsea/src/main/kotlin/com/pucetec/exam2/controller/Parking.kt
+/home/jose/Escritorio/exam-2-jayelsea/src/main/kotlin/com/pucetec/exam2/Exam2Application.kt
